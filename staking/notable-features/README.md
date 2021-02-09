@@ -10,8 +10,6 @@
 
 {% page-ref page="unstaking-your-ether-with-sharedstake.md" %}
 
-
-
 ## **Defi, you say?**
 
 * We believe in the decentralized finance of the future. SharedStake’s one of the main objectives is providing a more profitable business scheme to its users, including various collaborations with the other defi protocols.
