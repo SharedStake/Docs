@@ -9,3 +9,7 @@ Minter contract is responsible for:
 
  **Address:** [**0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d**](https://etherscan.io/address/0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d)\*\*\*\*
 
+{% page-ref page="../staking/notable-features/unstaking-your-ether-with-sharedstake.md" %}
+
+
+
