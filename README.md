@@ -7,7 +7,7 @@ description: >-
 
 # SharedStake
 
-Ethereum 2.0 is one of the biggest events to ever happen in the history of crypto. Securing the new network is a crucial step to propel Ethereum to mainstream adoption, and its APY rewards make it an attractive investment opportunity. Staking should be accessible to as many people as possible— and even beyond financial incentives, more ETH staked contributes to a healthier decentralized network. If successful, this will help create a [credibly neutral](https://nakamoto.com/credible-neutrality/) financial settlement layer that is paramount for any blockchain to succeed.
+Ethereum 2.0 is one of the biggest events to ever happen in the history of crypto. Securing the new network is a crucial step to propel Ethereum to mainstream adoption, and its APY rewards make it an attractive investment opportunity. Staking should be accessible to as many people as possible— and even beyond financial incentives, more ETH staked contributes to a healthier decentralized network. If successful, this will help create a [credibly neutral](https://nakamoto.com/credible-neutrality/) financial settlement layer that is paramount for any blockchain to succeed. 
 
 However, the average Ethereum enthusiast faces a ton of problems preventing them from staking: what if you don’t have 32 ETH, or the exact multiple of ETH to stake? What if you don’t want to run a validator, but still want to participate in the highly anticipated upgrade and get rewarded for it? What if you don’t want to wait 2 years to withdraw your funds?
 
