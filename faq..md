@@ -50,7 +50,7 @@ You can unstake your staked tokens \(SGT, vETH2 and LP tokens\) from [Earn Page]
 
 ## Where can I track my profit & balances?
 
-I use [Zapper](https://zapper.fi/dashboard).
+I use [Zapper](https://zapper.fi/dashboard)
 
 ## More information on Ethereum 2?
 
