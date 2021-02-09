@@ -30,7 +30,7 @@ Because of this functionality 1 vEth2 worth a little more than 1 Eth at the mome
 
 This functionality may be ineffective in terms of the growth the TVL and any SIPs suggested, voted and approved by the DAO can disable this functionality. However, this is currently unlikely to happen.
 
-## How can I earn SGT?
+## How can I earn SGT? 
 
 You can earn APY while you are waiting for ETH2 by:
 
