@@ -44,6 +44,12 @@ You can earn APY while you are waiting for ETH2 by:
 
 Currently, only from Uniswap : https://info.uniswap.org/pair/0x3d07f6e1627da96b8836190de64c1aed70e3fc55
 
+## Where can I track SGT?
+
+We applied to [CoinMarketCap](https://coinmarketcap.com/) on 09.02.21 and [Coingecko ](https://www.coingecko.com/en)on 04.02.21. Our requests are currently pending.
+
+In the meantime you can use [dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x3d07f6e1627da96b8836190de64c1aed70e3fc55).
+
 ## Are my staked tokens locked? no :\)
 
 You can unstake your staked tokens \(SGT, vETH2 and LP tokens\) from [Earn Page](https://www.sharedstake.org/earn), whenever you want. Learn more about Staking:
