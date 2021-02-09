@@ -25,7 +25,7 @@ SharedStake is great for you if you want to stake in Ethereum 2.0 and:
 
 **Using SharedStake, anyone can play a part in the future of decentralized finance. 🚀**
 
-{% page-ref page="staking/notable-features.md" %}
+{% page-ref page="staking/notable-features/" %}
 
 {% page-ref page="untitled/" %}
 

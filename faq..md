@@ -14,7 +14,7 @@ What about the second Airdrop?
 
 ## What is different from other Protocols?
 
-{% page-ref page="staking/notable-features.md" %}
+{% page-ref page="staking/notable-features/" %}
 
 ## Can I withdraw my vEth2?
 

@@ -22,7 +22,7 @@ As a long-term intention provided by creators, SharedStake is aiming to provide 
 
 {% page-ref page="why-sharedstake.md" %}
 
-{% page-ref page="staking/notable-features.md" %}
+{% page-ref page="staking/notable-features/" %}
 
 {% page-ref page="sgt/tokenomics.md" %}
 
