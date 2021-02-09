@@ -2,7 +2,10 @@
 
 ## **Easier to stake, easier to decentralize.**
 
-* Users neither need to wait to get their Eth2 equivalent tokens nor any claim is necessary. Stakers get vEth2 right after the transaction approval.
+* Users neither need to wait to get their Eth2 equivalent tokens nor any claim is necessary. Stakers get vEth2 right after the transaction approval. 
+* You can stake your Eth with just 3 clicks.
+
+{% page-ref page="../../untitled/" %}
 
 ## **No, we don’t do that here.**
 
@@ -14,10 +17,14 @@
 
 * We believe in the decentralized finance of the future. SharedStake’s one of the main objectives is providing a more profitable business scheme to its users, including various collaborations with the other defi protocols.
 
+{% page-ref page="../../defi-integrations.md" %}
+
 ## **Why earn less, when you can earn more?**
 
 * Well basically, if you use other protocols, you can earn around 7-9% APY after 2 years, which tends to get closer to 5%. We think, this is not so satisfying for the Defi, comparing the other options to use your Eth. 
 * If you use SharedStake to stake your ether, you will get vEth2. You can earn more profits by staking it and harvesting SGT, if you are not using it. Or you can use it on our defi collaborations and earn even more!
+
+#### [Visit our app to see the current APY ↗](https://www.sharedstake.org/earn)
 
 ## **Just Hodl!**
 
