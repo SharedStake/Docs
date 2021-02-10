@@ -24,9 +24,11 @@
   * [SGT](contracts-explained/sgt.md)
   * [Staking Pools](contracts-explained/staking-pools.md)
   * [Future Improvements & Notes](contracts-explained/future-improvements-and-notes.md)
-* [🤝 Defi Colloborations](defi-integrations.md)
+* [🤝 Defi Colloborations](defi-integrations/README.md)
+  * [A Storming Launch](defi-integrations/a-storming-launch.md)
+  * [⛄ Snowswap](defi-integrations/snowswap.md)
 * [✨ Future Improvements](future-improvements.md)
 * [⚡Testing the protocol](testing-the-protocol.md)
 * [🔺 Risks](risks.md)
-* [FAQ.](faq..md)
+* [FAQ](faq..md)
 

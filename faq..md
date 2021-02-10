@@ -2,15 +2,15 @@
 description: Frequently Asked Questions
 ---
 
-# FAQ.
+# FAQ
 
 ## When was the launch of the protocol?
 
-Launch of the protocol dated as 02.02.2021, with the first airdrop that issued 100.000 token to initial stakers.
+We concluded our first airdrop with the same time of the launch of the protocol, after 2 months of silence. This airdrop that issued 100.000 SGT to initial stakers, achieved it's purpose. 111 Addresses was eligible, and the smallest contribution rewarded with 260 SGT, which makes approximately 7800$ at the time of writing.
 
-Metrics on The first Airdrop?
+Learn more about our Launch 
 
-What about the second Airdrop?
+{% page-ref page="defi-integrations/a-storming-launch.md" %}
 
 ## What is different from other Protocols?
 
