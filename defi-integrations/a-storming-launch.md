@@ -10,7 +10,7 @@ We concluded our first airdrop with the same time of the launch of the protocol,
 
 * Stake at least 0.5 Ether on the SharedStake.
 * Hold your vEth2 or put it into the eth2Snow pool of Snowswap to provide Liquidity.
-* Hold at least 10 snow in your wallet or Frosty's Pool.
+* Hold at least 10 snow in your wallet \(including Frosty's Pool\).
 
 Learn more about the 2. Airdrop:
 

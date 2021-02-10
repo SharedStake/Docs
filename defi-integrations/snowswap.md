@@ -6,6 +6,10 @@ description: >-
 
 # ⛄ Snowswap
 
+{% hint style="success" %}
+**Second airdrop: 02-07 April 2021**
+{% endhint %}
+
 ### We announced the first integration of Defi in our protocol! 
 
 For the first airdrop that aims to distribute the control of the protocol to it's early users, we colloborated with Snowswap. Learn more about our first airdrop:
@@ -20,10 +24,6 @@ For the second colloboration with Snowswap, we will conduct a second airdrop. We
 
 * Stake your vEth2, aETHb, crETH2 or wETH in Snowswap's [eth2snow pool](https://snowswap.org/ethsnow/). 
 * Stake your eth2snow token in [buddy elf's pool](https://snowswap.org/stake).
-
-{% hint style="success" %}
-**Second airdrop: 02-07 April 2021**
-{% endhint %}
 
 #### Airdrop details may change until 21st of the February 2021, please join [our discord server](https://discord.com/invite/VezkjY9udC), follow[ our twitter account](https://twitter.com/SharedStake) or join [our reddit community](https://www.reddit.com/r/SharedStake/).
 

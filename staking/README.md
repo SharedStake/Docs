@@ -14,6 +14,13 @@ It is expected that users will experience profits with yield farming pools on vE
 
 Main objective of the protocol is improving the user experience, reliability and profitability of Eth2 staking process in a decentralized manner.
 
-Future improvements will make it possible to have more scalable and profitable solutions; collaborations with defi protocols, DAO, SIPs and Open Source Contributions.  
+Future improvements will make it possible to have more scalable and profitable solutions; collaborations with defi protocols, DAO, SIPs and Open Source Contributions.
 
+{% page-ref page="notable-features/" %}
+
+{% page-ref page="dao.md" %}
+
+{% page-ref page="roadmap.md" %}
+
+{% page-ref page="fees.md" %}
 

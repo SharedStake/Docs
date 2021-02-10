@@ -15,8 +15,7 @@ The protocol’s short term objective is providing a gateway to stakers, while a
 
 As a long-term intention provided by creators, SharedStake is aiming to provide a service as a staking mechanism with fully decentralized functional scheme with minimized fees & three-component-solution to the high costs of ethereum-2 staking. The roadmap for this objective is open to contribution for all of the Governance Members.
 
-**We believe in what we code.**  
-
+**We believe in what we code.**
 
 ## **Highlights**
 
