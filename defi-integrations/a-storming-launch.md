@@ -4,7 +4,7 @@ description: with 3M$ worth airdrop.
 
 # A Storming Launch
 
-We concluded our first airdrop with the same time of the launch of the protocol, after 2 months of silence. This airdrop that issued 100.000 SGT to initial stakers, achieved it's purpose of distributing the protocol's . 111 Addresses was eligible, and the smallest contribution rewarded with 260 SGT, which makes approximately 7800$ at the time of writing.
+We concluded our first airdrop with the same time of the launch of the protocol, after 2 months of silence. This airdrop that issued 100.000 SGT to initial stakers, achieved it's purpose. 111 Addresses was eligible, and the smallest contribution rewarded with 260 SGT, which makes approximately 7800$ at the time of writing.
 
 #### To be eligible for this airdrop, you needed to:
 
