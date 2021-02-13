@@ -17,7 +17,7 @@
 
 * We believe in the decentralized finance of the future. SharedStake’s one of the main objectives is providing a more profitable business scheme to its users, including various collaborations with the other defi protocols.
 
-{% page-ref page="../../defi-integrations/" %}
+{% page-ref page="../../defi-collaborations/" %}
 
 ## **Why earn less, when you can earn more?**
 

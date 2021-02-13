@@ -10,7 +10,7 @@ We concluded our first airdrop with the same time of the launch of the protocol,
 
 Learn more about our Launch 
 
-{% page-ref page="defi-integrations/a-storming-launch.md" %}
+{% page-ref page="defi-collaborations/a-storming-launch.md" %}
 
 ## What is different from other Protocols?
 
