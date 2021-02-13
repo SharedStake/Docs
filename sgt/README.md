@@ -8,7 +8,7 @@ Address:  [https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b0
 
 Max total Supply: 10 million
 
-See the tokenomics infographic from here: \(link\)
+[See the tokenomics infographic from here.](https://www.sharedstake.org/images/tokenomics.pdf)
 
 ### SGT stands for SharedStake Governance Token. 
 

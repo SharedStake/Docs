@@ -1,6 +1,6 @@
 # 💱Tokenomics
 
-**Check our infographic here : link**
+\*\*\*\*[**Check our infographic here.**](https://www.sharedstake.org/images/tokenomics.pdf)\*\*\*\*
 
 * **50%** for staking pools, airdrops and bounties. In staking pools, **29% scheduled for the next 2 years &15,5% locked for the 2 years**. Emission rate will change every 3 months.
 * **24%** for SharedStake Dao Treasury, for special projects + defi integrations + audits + Protocol Insurance. **50% time locked for  2 years - on demand**
