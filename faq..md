@@ -46,9 +46,9 @@ Currently, only from Uniswap : https://info.uniswap.org/pair/0x3d07f6e1627da96b8
 
 ## Where can I track SGT?
 
-We applied to [CoinMarketCap](https://coinmarketcap.com/) on 09.02.21 and [Coingecko ](https://www.coingecko.com/en)on 04.02.21. Our requests are currently pending.
+You can use [Coingecko](https://www.coingecko.com/en/coins/sharedstake-governance-token) or [dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x3d07f6e1627da96b8836190de64c1aed70e3fc55).
 
-In the meantime you can use [dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x3d07f6e1627da96b8836190de64c1aed70e3fc55).
+We applied to [CoinMarketCap](https://coinmarketcap.com/) on 09.02.21. Our request is currently pending.
 
 ## Are my staked tokens locked? no :\)
 
@@ -58,7 +58,7 @@ You can unstake your staked tokens \(SGT, vETH2 and LP tokens\) from [Earn Page]
 
 You can use [vfat](https://vfat.tools/sgt/).
 
-[Zapper](https://zapper.fi/dashboard) is also waiting for Coingecko listing.
+[Zapper](https://zapper.fi/dashboard) support is also on the way.
 
 ## More information on Ethereum 2?
 
