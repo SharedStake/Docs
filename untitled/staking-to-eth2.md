@@ -4,7 +4,7 @@ The staking process is handled by a contract defined as a [Minter Contract](http
 
 After users staked their Ether in the protocol, they can withdraw Eth by burning [vEth2](https://etherscan.io/token/0x898bad2774eb97cf6b94605677f43b41871410b1) unlike the other protocols, where their tokens are immediately locked or need a notice period until claimed. This functionality decreases the risks and costs and increases the usability of the protocol. Shortly, no one will be forced to hold their [vEth2](https://etherscan.io/token/0x898bad2774eb97cf6b94605677f43b41871410b1). 
 
-{% page-ref page="../staking/notable-features/unstaking-your-ether-with-sharedstake.md" %}
+{% page-ref page="../fundamentals/notable-features/unstaking-your-ether-with-sharedstake.md" %}
 
 After some period of time \(TBA\) or reaching a chosen limit of balance \(TBA\), the staking process will start. 
 

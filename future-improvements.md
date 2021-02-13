@@ -12,7 +12,7 @@
 
 **Let's fill this part and make history together with SIPs.**
 
-{% page-ref page="staking/dao.md" %}
+{% page-ref page="fundamentals/dao.md" %}
 
 
 

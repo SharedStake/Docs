@@ -14,7 +14,7 @@ Learn more about our Launch
 
 ## What is different from other Protocols?
 
-{% page-ref page="staking/notable-features/" %}
+{% page-ref page="fundamentals/notable-features/" %}
 
 ## Can I withdraw my vEth2?
 

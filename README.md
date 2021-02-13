@@ -21,13 +21,13 @@ As a long-term intention provided by creators, SharedStake is aiming to provide 
 
 {% page-ref page="why-sharedstake.md" %}
 
-{% page-ref page="staking/notable-features/" %}
+{% page-ref page="fundamentals/notable-features/" %}
 
 {% page-ref page="sgt/tokenomics.md" %}
 
 {% page-ref page="untitled/" %}
 
-{% page-ref page="staking/roadmap.md" %}
+{% page-ref page="fundamentals/roadmap.md" %}
 
 {% hint style="warning" %}
 _**You accept all risk of using the forum and content on the forum. As far as the law allows, the company and its suppliers provide the forum as is, without any warranty whatsoever.**_
