@@ -16,7 +16,9 @@ SGT will function as a governance token on these proposals, DAO members will vot
 
 Anyone can suggest a proposal by providing a draft, simply opening an issue on Github, or even reaching any of the technical contributors from discord, telegram etc.
 
-Voting will occur via snapshot.page.
+#### Voting will occur via snapshot.page:
+
+[https://snapshot.page/\#/sharedstake.eth](https://snapshot.page/#/sharedstake.eth)
 
   
 
