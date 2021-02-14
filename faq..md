@@ -46,9 +46,7 @@ Currently, only from Uniswap : https://info.uniswap.org/pair/0x3d07f6e1627da96b8
 
 ## Where can I track SGT?
 
-You can use [Coingecko](https://www.coingecko.com/en/coins/sharedstake-governance-token) or [dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x3d07f6e1627da96b8836190de64c1aed70e3fc55).
-
-We applied to [CoinMarketCap](https://coinmarketcap.com/) on 09.02.21. Our request is currently pending.
+You can use [Coingecko](https://www.coingecko.com/en/coins/sharedstake-governance-token) or  [CoinMarketCap](https://coinmarketcap.com/currencies/sharedstake/).
 
 ## Are my staked tokens locked? no :\)
 
