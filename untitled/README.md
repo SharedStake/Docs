@@ -1,18 +1,16 @@
 ---
-description: Stake your Ether with just 3 clicks!
+description: Staking your Ether was never supposed to be this easy.
 ---
 
 # 🥩 Staking & Unstaking
 
-#### **Staking your Ether was never this much easy, you can stake your Ether with just 3 clicks!**
+#### Y**ou can stake your Ether in just 3 clicks!**
 
 {% hint style="success" %}
-#### **You can always unstake your vEth2 to get Eth, until they are locked into the Eth2. Plenty of time to consider after starting to earn!**
+#### **You can** _**always**_ **unstake your vEth2 for Eth until it has been locked into the Eth2 contract. As the estimated time in years away, SharedStakers have plenty of time to consider unstaking after starting to earn additional yield!**
 {% endhint %}
 
-When ETH is deposited, users get a wrapper token called vETH2. vETH2 is a staking derivative redeemable for ETH on SharedStake when Ethereum 2 launches. Its goal is to be liquid so that users can exit their position earlier on DEX’s, as well as harnessing the power of DeFi and its composability benefits. For instance, one could lend vETH2 and earn interest, whilst borrowers on the other side of the trade could perform margin trading.
-
-The fees are priced in vETH2, so the amount received after deposit is slightly lower.
+When ether is deposited to SharedStake, users get a wrapped token called vETH2. vETH2 is a staking derivative redeemable for Eth on SharedStake when Ethereum 2 launches. The main goal of vEth2 is to offer liquidity for users to exit their position early on Decentralized Exchanges \(DEXs\) if they choose, as well as harness the power of DeFi and its composable benefits. For instance, a SharedStaker can lend vETH2 and earn interest with minimal risk while borrowers could perform margin trading.
 
 {% page-ref page="staking.md" %}
 

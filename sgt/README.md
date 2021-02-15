@@ -6,19 +6,19 @@ description: SharedStake Governance Token
 
 Address:  [https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078](https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078)
 
-Max total Supply: 10 million
+Max total supply: 10 million
 
-[See the tokenomics infographic from here.](https://www.sharedstake.org/images/tokenomics.png)
+[See the tokenomics infographic here.](https://www.sharedstake.org/images/tokenomics.png)
 
 ### SGT stands for SharedStake Governance Token. 
 
-It will function as a governance token of the protocol. 
+SGT functions as the governance token of the protocol. 
 
-Firstly, the most important function of the SGT is, distributing the control of the protocol in a decentralized manner. DAO members will be able to vote on SIPs with SGT, to decide on which improvements should be implemented in the protocol, which ones should have more priority, and how to increase the profitability, efficiency and effectiveness of the protocol. While the Protocol gets bigger, DAO will be the beating heart of the protocol, that accepts every member’s collaboration and contribution.
+The main function of SGT is distributing control of the protocol in a decentralized manner. DAO members can vote on SIPs with their SGT and decide which improvements should be implemented in the protocol. The SIPs govern priority, how to increase SGT profitability, how to maximize efficiency and effectively harness the power of the protocol. As the SharedStake protocol expands, the DAO will be the heart of the protocol, accepting **every** member’s contribution.
 
-Secondly, SharedStake incentivizes the migration to Ethereum-2 with SGT. Also creates an easier and more profitable staking process. After you staked your Ether, you can stake your vEth2 to harvest SGT. 
+Additionally, the SharedStake Governance Token incentivizes migration of ether to Eth2.0 and creates an easier and more profitable staking process. After ether is staked, vEth2 is immediately available to realize SGT profits. 
 
-Check out our Tokenomics here: \(medium article link\)
+[Read about the token distribution here](https://matthewhq.medium.com/staking-with-purpose-part-1-95f59d02e635)
 
 {% page-ref page="tokenomics.md" %}
 

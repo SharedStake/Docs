@@ -10,18 +10,18 @@ SharedStake is a custodial staking service allowing anyone to stake their ETH wi
 * The validators are run on AWS, one of the best cloud providers with industry-leading uptimes.
 * Thanks to vETH2, our derivative staking token, we are able to create a liquid market which allows participants to exit their positions or leverage DeFi apps, even before Ethereum 2 launches.
 
-Just deposit ETH to SharedStake smart contract to automatically mint your staking token, and relax. Nothing else is required.
+Deposit ETH to the SharedStake smart contract to automatically mint your staking token, and relax. Nothing else is required.
 
-SharedStake is great for you if you want to stake in Ethereum 2.0 and:
+SharedStake may be your StaaS solution if you want to stake in Ethereum 2.0 and:
 
-* Don't have 32 Eth for a validator, \(54400$ currently\).
-* Have more than 32 Eth but not an exact multiple
-* Don't want to run your own validator
-* Don't want to create your own Eth2 deposit credential via the command line
-* Want to earn APYs from investing in Ethereum 2.0 in a safer manner than DeFi.
-* Save on validator node infrastructure costs by sharing them
-* Want to use your Ethereum while earning your staking profits, yearly 9%  currently.
-* Sleep soundly trusting industry standard cloud infrastructure with guaranteed uptime.
+* You don't have 32 Eth for a validator, \($54,400 currently\)
+* You have more than 32 Eth but not the required exact multiple
+* You don't want to run your own validator or are concerned about slashing due to local energy conditions
+* You don't want to create your own Eth2 deposit credential via the command line
+* You want to earn yield from investing in Ethereum 2.0 with minimal risk
+* You want to save on validator node infrastructure costs by sharing them
+* You want to use your Ethereum while earning your staking profits \(9% APY currently\)
+* You want to sleep soundly trusting industry standard cloud infrastructure with guaranteed uptime
 
 **Using SharedStake, anyone can play a part in the future of decentralized finance. 🚀**
 

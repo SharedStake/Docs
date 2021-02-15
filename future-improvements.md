@@ -1,18 +1,23 @@
+---
+description: Planned improvements before DAO governance assumes leadership
+---
+
 # ✨ Future Improvements
 
-* Adding new validator nodes, which incur more infrastructure costs but may increase reliability
-* Adding different AWS regions or VPS providers to increase reliability
-* Client choices for new validators, there are currently 4 clients to pick from, current choice is Prysm
-* Allowing members of the community to deploy validators through our smart contract. Using KP3R to bond and permission control users. With a dual bond of KP3R and SST
-  * Open concerns:
-    * Withdrawal key storage - give to admin
-    * keep validator alive - slashing - min cost?
+* Additional wallet support added soon
+* Improvements to the UI and mobile support are in progress
+* Staking operations will be more cost efficient with the auto-staking functionality currently in development
+* New validator node additions may incur infrastructure costs but will increase reliability
+* Additional AWS regions/VPS providers to increase reliability
+* More client choices for new validators: SharedStake is currently using Prysm and there are three additional choices
+* Allow members of the community to deploy validators through our smart contracts using KP3R to bond and control permissions for users with a dual bond of KP3R and SST
+  * Current concerns with this improvement:
+    * Administrative withdrawal key storage
+    * Minimum costs for slashing/keeping validators alive
 * Move to a more non-custodial or multisig return paradigm
-* More from the community...
+* Implementing SIPs and community feedback
 
-**Let's fill this part and make history together with SIPs.**
+**The future of SharedStake is owned by SGT owners- join the** [**conversation**](https://discord.gg/VezkjY9udC) **or propose a SIP!**
 
 {% page-ref page="fundamentals/dao.md" %}
-
-
 

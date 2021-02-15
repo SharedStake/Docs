@@ -1,18 +1,18 @@
 ---
-description: with 3M$ worth airdrop.
+description: $3M worth of SGT airdropped to the community
 ---
 
-# A Storming Launch
+# A Snowy Launch
 
-We concluded our first airdrop with the same time of the launch of the protocol, after 2 months of silence. This airdrop that issued 100.000 SGT to initial stakers, achieved it's purpose. 111 Addresses was eligible, and the smallest contribution rewarded with 260 SGT, which makes approximately 7800$ at the time of writing.
+The first SharedStake airdrop coincided with the launch of the protocol after two months of hard work in relative silence. The airdrop issued 100,000 SGT to our initial stakers and resulted in 111 eligible addresses receiving SGT \(the smallest reward was 260 SGT, worth about $15,000 as of mid-February\).
 
-#### To be eligible for this airdrop, you needed to:
+#### To be eligible for the airdrop, initial stakers:
 
-* Stake at least 0.5 Ether on the SharedStake.
-* Hold your vEth2 or put it into the eth2Snow pool of Snowswap to provide Liquidity.
-* Hold at least 10 snow in your wallet \(including Frosty's Pool\).
+* Staked at least 0.5 ETH on the SharedStake platform
+* Held their vEth2 _or_ deposited it in the Eth2Snow pool on SnowSwap
+* Held at least 10 SNOW in their wallet \(this included SNOW deposited in Frosty's Pool\).
 
-Learn more about the 2. Airdrop:
+Continue reading to learn more about the second SGT airdrop.
 
 {% page-ref page="snowswap.md" %}
 
