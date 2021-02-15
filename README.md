@@ -13,7 +13,7 @@ However, the average Ethereum enthusiast faces a multitude of problems preventin
 
 The SharedStake protocol’s short term objective is providing a gateway to stakers, while also providing a yield farming opportunity with two main assets that are created by the protocol: validator Eth2\(vEth2\) and the SharedStake Governance token \(SGT\).
 
-SharedStake is built for the transition to and past Ethereum 2.0. The protocol provides Staking-as-a-Service \(StaaS\), fully decentralized and with minimal fees as a counter to the high costs of Ethereum 2.0 staking. SharedStake continues to hit our milestones and the SGT roadmap is a living document, owned and updated by SharedStake DAO members for their benefit.
+SharedStake is built for the transition to and past Ethereum 2.0. The protocol provides Staking-as-a-Service \(StaaS\), fully decentralized and with minimal fees as a counter to the high costs of Ethereum 2.0 staking. SharedStake continues to hit milestones and the SGT roadmap will always be a living document, owned and updated by SharedStake DAO members for their benefit.
 
 **We believe in what we code.**
 
