@@ -30,7 +30,7 @@ Once your transaction is approved on-chain, you will receive an equivalent amoun
 
 ![](https://lh3.googleusercontent.com/AUuv1Fi01Ju9mtTOL8grqikyhFWpy0yZT3O6iCRjFcb529X5D2pR9BMHHJiDwqfAZh6WKjzPFoXy5Vq1K3_12vsB_cgj4R7LsP1girzVW94hhofwcxUm4-O8BMqbtZFnGzk3SqZw)
 
-* Click to Stake Button.
+* Click the Stake button.
 
 {% hint style="success" %}
 You can claim your rewards with the ‘harvest’ button without withdrawing your staked balance.

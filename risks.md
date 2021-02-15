@@ -1,7 +1,5 @@
 ---
-description: >-
-  The rewards are the fun part, but some risks exist. Risks you are accepting by
-  using our protocol
+description: There are some risks you are accepting by using the protocol
 ---
 
 # 🔺 Risks

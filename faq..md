@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## When was the launch of the protocol?
 
-Our first airdrop coincided with the launch of the protocol and occurred in early 2021.
+Our first airdrop coincided with the launch of the protocol and occurred 02/02/2021.
 
 Learn more about our launch: 
 
@@ -18,11 +18,11 @@ Learn more about our launch:
 
 ## Can I withdraw my vEth2?
 
-Yes. This is one of the main advantages of the SharedStake protocol. We lock staked Ether periodically and allows users to unstake their balance when it is convenient. The current minter contract allows both new and veteran users to withdraw as long as the contract is sufficiently liquid.
+Yes. This is one of the main advantages of the SharedStake protocol. We lock staked Ether periodically and this allows users to unstake their balance when it is convenient. The current minter contract allows users to withdraw as long as the contract is sufficiently liquid.
 
-This functionality allows users to exit from protocol on their schedule unlike other StaaS competitors. Although this may affect SGT's TVL, we believe in giving more value to our users. 
+This functionality allows users to exit from the protocol on their schedule, unlike other StaaS competitors. Although this may affect SGT's TVL, we believe in giving more value to our users. 
 
-If this functionality is determined to require a change by the community, SIPs will be voted on by DAO members to disable it. This is unlikely to happen, but is another example of the utility gained by SGT holders.
+If this functionality is determined by the community to require a change, a SIP may be voted on by DAO members to enable/disable features. This is unlikely to happen, but is another example of the utility gained by SGT holders.
 
 ## How can I earn SGT? 
 
@@ -36,7 +36,7 @@ You can earn APY while you are waiting for ETH2 by:
 
 ## Where can I buy SGT?
 
-Currently, the ETH-SGT pair is availabe [only on Uniswap](https://info.uniswap.org/pair/0x3d07f6e1627da96b8836190de64c1aed70e3fc55)
+Currently, the ETH-SGT pair is available [only on Uniswap](https://info.uniswap.org/pair/0x3d07f6e1627da96b8836190de64c1aed70e3fc55)
 
 ## Where can I track SGT?
 

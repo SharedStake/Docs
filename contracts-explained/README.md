@@ -21,6 +21,6 @@ This process allows holders to stake **any** amount of ether they want and pool 
 ![](../.gitbook/assets/thefutureofsharedsteak2.jpg)
 
 {% hint style="info" %}
-**All of our contracts are open source and can be found on the SharedStake** [**Github**](%20https://github.com/SharedStake/Contracts)**.**
+**All of our contracts are open source and can be found on the SharedStake** [**Github**](%20https://github.com/SharedStake/Contracts)
 {% endhint %}
 

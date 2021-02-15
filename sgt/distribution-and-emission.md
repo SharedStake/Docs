@@ -6,7 +6,7 @@ description: Allocating the supply of SGT
 
 ### **50% of the entire token supply is distributed to SharedStake users** 
 
-The emission period for SGT started with the first airdrop, issued to initial liquidity providers. 100,000 tokens were distributed, corresponding to 1% of the total SGT supply.
+The emission period for SGT started with the first airdrop issued to initial liquidity providers. 100,000 tokens were distributed, corresponding to 1% of the total SGT supply.
 
 The emission period will continue for the next 21 months until November 2022. The schedule consists of seven distinct emission periods, each three months long. 
 

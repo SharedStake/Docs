@@ -4,7 +4,7 @@ description: The SharedStake protocol values its members and incentivizes strong
 
 # Unstaking your Ether with SharedStake
 
-One of the main differences between SharedStake and other protocols is the existence of SharedStake's 'natural' exit pool. 
+One of the main differences between SharedStake and other protocols is the existence of SharedStake's natural exit pool. 
 
 The protocol sends and locks ether in the Eth2 contract periodically \(according to staked balance or a period of time\). This time-delayed mechanism creates a natural exit pool and acts as insurance to our stakers. Before staking to the Eth2 contract, SharedStake floats stakers' Eth for a specified period of time to allow users to un-stake if they mistakenly staked or if they prefer to exit. SharedStakers can un-stake their ether when it is most convenient for them. 💯
 

@@ -10,9 +10,9 @@ After users stake their ether in the SharedStake protocol, they can withdraw Eth
 
 {% page-ref page="../fundamentals/notable-features/unstaking-your-ether-with-sharedstake.md" %}
 
-After a specified period of time \(TBD\) or reaching a chosen balance limit, the staking process will start. 
+The staking process is triggered after a predetermined period of time or once a balance limit is reached. 
 
-Here, the minter contract is paused to prevent any losses while creating the validators. Our automated bots deploy multiple validators to the [Eth2.0 Deposit Contract](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa). After this process, the [Minter Contract](https://etherscan.io/address/0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d) is unpaused and continues to accept Eth and mint vEth2 again. 
+Here, the minter contract is paused to prevent any losses while creating the validators. We deploy multiple validators to the [Eth2.0 Deposit Contract](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa). After this process, the [Minter Contract](https://etherscan.io/address/0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d) is unpaused and continues to accept Eth and mint vEth2 again. 
 
-**The** [**Minter Contract**](https://etherscan.io/address/0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d) **can be updated with SIPs and voted by DAO members with SGT.**
+**The** [**Minter Contract**](https://etherscan.io/address/0xbca3b7b87dcb15f0efa66136bc0e4684a3e5da4d) **can be updated with SIPs and voted by DAO members with SGT**
 

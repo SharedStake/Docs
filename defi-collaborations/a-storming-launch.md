@@ -4,7 +4,7 @@ description: $3M worth of SGT airdropped to the community
 
 # A Snowy Launch
 
-The first SharedStake airdrop coincided with the launch of the protocol after two months of hard work in relative silence. The airdrop issued 100,000 SGT to our initial stakers and resulted in 111 eligible addresses receiving SGT \(the smallest reward was 260 SGT, worth about $15,000 as of mid-February\).
+The first SharedStake airdrop coincided with the launch of the protocol after two months of hard work in relative stealth. The airdrop issued 100,000 SGT to our initial stakers and resulted in 111 eligible addresses receiving SGT \(the smallest reward was 260 SGT, worth about $15,000 as of mid-February\).
 
 #### To be eligible for the airdrop, initial stakers:
 
