@@ -31,4 +31,5 @@
 * [⚡ Testing the Protocol](testing-the-protocol.md)
 * [🔺 Risks](risks.md)
 * [❔ FAQ](faq..md)
+* [📚 Glossary](glossary.md)
 
