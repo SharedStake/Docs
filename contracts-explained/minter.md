@@ -2,7 +2,7 @@
 description: The vEth2 Minter
 ---
 
-# Minter
+# 🏗️ Minter
 
 The Minter contract is responsible for:
 

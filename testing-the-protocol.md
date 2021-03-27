@@ -2,7 +2,7 @@
 description: Feel free to test SharedStake before using it
 ---
 
-# ⚡Testing the Protocol
+# ⚡ Testing the Protocol
 
 You can test the staking functionality by switching to Goerli test network.
 

@@ -1,5 +1,5 @@
 ---
-description: 'Current SharedStake architecture, as deployed on mainnet'
+description: Current SharedStake architecture deployed on mainnet
 ---
 
 # 🤖 Contracts Explained
@@ -8,7 +8,7 @@ The contracts pool users’ ETH, and automatically send 32 ETH batches into AWS-
 
 1. Users deposit ETH into a SharedStake smart contract through a deposit function on the SharedStake website.
 2. This mints vETH2, a token representing the user's staked position.
-3. The ETH supplied is held in a transparent smart contract until the predetermined threshold of 10 to 100 validators is met.
+3. The supplied ETH is held in a transparent smart contract until the predetermined threshold of 10 to 100 validators is met.
 4. At this point, a SharedStake Core Dev creates the private keys and mnemonic via the command line, then deposits the ETH2 staking contract by calling a `deposit_to_eth2` function on the SharedStake contract.
 5. This function transfers the ETH to the ETH2 staking contract by calling the deposit and passing the public key and additional required information.
 

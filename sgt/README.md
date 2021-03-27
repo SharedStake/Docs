@@ -1,5 +1,5 @@
 ---
-description: SharedStake Governance Token
+description: The SharedStake Governance Token
 ---
 
 # 💰 SGT
@@ -14,7 +14,7 @@ Max total supply: 10 million
 
 SGT functions as the governance token of the protocol. 
 
-The main function of SGT is distributing control of the protocol in a decentralized manner. DAO members can vote on SIPs with their SGT and decide which improvements should be implemented in the protocol. The SIPs govern priority, how to increase SGT profitability, how to maximize efficiency and effectively harness the power of the protocol. As the SharedStake protocol expands, the DAO will be the heart of the protocol, accepting **every** member’s contribution.
+The main function of SGT is distributing control of the protocol in a decentralized manner. DAO members can vote on SIPs with their SGT and decide which improvements should be implemented in the protocol. The SIPs govern priority, how to increase SGT profitability, how to maximize efficiency and effectively harness the power of the protocol. As the SharedStake platform expands, the DAO will remain at the center, accepting every member’s contributions.
 
 Additionally, the SharedStake Governance Token incentivizes migration of ether to Eth2.0 and creates an easier and more profitable staking process. After ether is staked, vEth2 is immediately available to realize SGT profits. 
 
