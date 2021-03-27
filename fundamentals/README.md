@@ -1,5 +1,5 @@
 ---
-description: The main things you should know about SharedStake
+description: The main terms you should know interacting with the SharedStake platform
 ---
 
 # 💎 Fundamentals
@@ -12,7 +12,7 @@ description: The main things you should know about SharedStake
 
 **vEth2** is the liquid representation of staked Ether. vEth2 is the token that earns additional yield compared to traditionally staked ether**.**
 
-**Uniswap** is the first main exchange where you can swap ETH for SGT. You can also add liquidity to receive additional yield.
+**Uniswap** is the first main exchange where you can swap ETH or other digital assets for SGT. You can also add liquidity to stake and receive additional yield.
 
 {% page-ref page="notable-features/" %}
 

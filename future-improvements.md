@@ -1,5 +1,5 @@
 ---
-description: Planned improvements before DAO governance assumes leadership
+description: Planned improvements before DAO governance assumes complete ownership
 ---
 
 # ✨ Future Improvements
