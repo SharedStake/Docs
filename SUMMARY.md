@@ -25,7 +25,7 @@
   * [🔮 Future Improvements & Release Guide](contracts-explained/future-improvements-and-notes.md)
 * [🤝 Defi Collaborations](defi-collaborations/README.md)
   * [🌨️ A Snowy Launch](defi-collaborations/a-storming-launch.md)
-  * [🥩 Airdrop 2](defi-collaborations/snowswap.md)
+  * [🥩 Airdrop 2](defi-collaborations/airdrop-2.md)
   * [📏 Ruler Protocol](defi-collaborations/ruler-protocol.md)
 * [✨ Future Improvements](future-improvements.md)
 * [⚡ Testing the Protocol](testing-the-protocol.md)

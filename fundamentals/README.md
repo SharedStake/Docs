@@ -14,6 +14,8 @@ description: The main terms you should know interacting with the SharedStake pla
 
 **Uniswap** is the first main exchange where you can swap ETH or other digital assets for SGT. You can also add liquidity to stake and receive additional yield.
 
+_General cryptoeconomy terms can be found in the_ [_Glossary_](https://docs.sharedstake.org/glossary) _at the end of our docs._
+
 {% page-ref page="notable-features/" %}
 
 {% page-ref page="dao.md" %}

@@ -16,5 +16,5 @@ To be eligible for the first airdrop, initial stakers:
 
 **Another airdrop is planned for the first week of April and will reward community members & liquidity providers. Continue reading to learn more about the second SGT airdrop.**
 
-{% page-ref page="snowswap.md" %}
+{% page-ref page="airdrop-2.md" %}
 
