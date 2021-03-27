@@ -1,16 +1,18 @@
 ---
-description: The SharedStake protocol values its members and incentivizes strong growth.
+description: The SharedStake platform values its members and incentivizes growth.
 ---
 
 # Unstaking your Ether with SharedStake
 
-One of the main differences between SharedStake and other protocols is the existence of SharedStake's natural exit pool. 
+One of the main differences between SharedStake and other staking protocols is the existence of SharedStake's natural exit pool. 
 
-The protocol sends and locks ether in the Eth2 contract periodically \(according to staked balance or a period of time\). This time-delayed mechanism creates a natural exit pool and acts as insurance to our stakers. Before staking to the Eth2 contract, SharedStake floats stakers' Eth for a specified period of time to allow users to un-stake if they mistakenly staked or if they prefer to exit. SharedStakers can un-stake their ether when it is most convenient for them. 💯
+SharedStake sends and locks ether in the Eth2 contract periodically \(according to staked balance/period of time\). This time-delayed mechanism creates a natural exit pool and acts as insurance to our stakers. Before staking to the Eth2 contract, SharedStake floats stakers' Eth for a specified period of time to allow users to un-stake if they mistakenly staked or if they prefer to exit. 
+
+SharedStakers can un-stake their ether when it is most convenient for them. 💯
 
 ### You can un-stake your vEth2 and get your Ether any time you want.
 
-* You can withdraw your Ether by burning your vEth2 at any time. 
+* You can withdraw your Ether by burning your vEth2 at any time or swapping for ETH with our DeFi partners.
 * It does not matter if you staked a minute or a month ago.
 * View the balance of the [minter contract](https://etherscan.io/address/0xbca3B7B87dCB15f0efa66136Bc0E4684a3e5da4d) to check the natural liquidity pool for vEth2.
 

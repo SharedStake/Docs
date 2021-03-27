@@ -1,10 +1,10 @@
 ---
-description: What do centralized exchanges do with the 25+% of accrued APY?
+description: "What do centralized exchanges do with the 25+% of accrued APY? \U0001F914"
 ---
 
 # 👝 Fees
 
-**TL;DR: SharedStake offers the most convenient rates possible: 0.315% of deposit \(0.1 ETH per validator\) and only 5% of accrued APY after ETH2 migration completion**
+**TL;DR: SharedStake offers the most convenient rates possible: 0.315% of deposit \(0.1 ETH per validator\) and only 5% of accrued APY after ETH2 migration**
 
 Running a validator node is not free. SharedStake aims to keep the most Eth in our members' pockets as possible, however there are infrastructure costs associated with the staking setup and maintenance:
 
@@ -12,13 +12,9 @@ Running a validator node is not free. SharedStake aims to keep the most Eth in o
 * And only 5% from accrued APY when Ethereum 2 officially launches
 * Fees are priced in vEth2, so the amount received after deposit may be slightly lower
 
-This rate is significantly lower than any competitors. The rate will continue to be evaluated through SIPs for additional capital efficiencies for SGT DAO members.
+This rate is significantly lower than competing products. The rate will continue to be evaluated through SIPs for additional capital efficiencies for SGT DAO members.
 
 {% hint style="success" %}
-**If users choose to withdraw their ETH before the validators have been created they will be refunded and fees deducted.**
-{% endhint %}
-
-{% hint style="success" %}
-**When the first lot of validators has been created and SGT governance is live, the fee structure will be included in SIPs for community approval.**
+**SharedStake validators are live on ETH2. If the community deems a fee change is needed, the structure will be included in SIPs for DAO approval.**
 {% endhint %}
 

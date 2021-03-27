@@ -3,7 +3,7 @@
 ### Future improvements
 
 * Distributor: Non-continuous cumulative airdrops with updateable merkle root. This contract will be implemented from the current Airdrop contract and be used on to distribute Eth2 staking profits to the SharedStakers.
-* Staking geysers will continue to be improved upon \(updatability, eliminating required migration ever three months, etc.\).
+* Staking geysers will continue to be improved upon \(updatability, eliminating required migration every three months, etc.\).
 
 ### Release guide
 
