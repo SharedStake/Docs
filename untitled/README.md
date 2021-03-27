@@ -1,10 +1,8 @@
 ---
-description: Staking your Ether was never supposed to be this easy.
+description: Staking your Ether was never supposed to be this easy
 ---
 
 # 🥩 Staking & Unstaking
-
-#### 
 
 {% hint style="success" %}
 #### **You can** _**always**_ **unstake your vEth2 for Eth until it has been locked into the Eth2 contract. As the estimated time is years away, SharedStakers have plenty of time to consider unstaking after starting to earn additional yield!**

@@ -1,6 +1,6 @@
 ---
 description: >-
-  SharedStake is an easy to use Decentralized Open Source Protocol that allows
+  SharedStake is an easy-to-use Decentralized Open Source Protocol that allows
   users to stake any amount of Ether to Ethereum 2 while keeping their staked
   amount valuable and liquid.
 ---
@@ -11,11 +11,11 @@ Ethereum 2.0 is one of the biggest events to ever happen in the history of crypt
 
 However, the average Ethereum enthusiast faces a multitude of problems preventing them from staking: what if you don’t have 32 ETH, or the exact multiple of ETH to stake? What if you don’t want to run a validator, but still want to participate in the highly anticipated upgrade and get rewarded for it? What if you don’t want to wait 2 years to withdraw your funds?
 
-The SharedStake protocol’s short term objective is providing a gateway to stakers, while also providing a yield farming opportunity with two main assets that are created by the protocol: validator Eth2\(vEth2\) and the SharedStake Governance token \(SGT\).
+The SharedStake platform's near-term objective is providing a gateway to stakers, while also providing a yield farming opportunity with two main assets that are created by the protocol: validator Eth2 \(vEth2\) and the SharedStake Governance Token \(SGT\).
 
-SharedStake is built for the transition to and past Ethereum 2.0. The protocol provides Staking-as-a-Service \(StaaS\), fully decentralized and with minimal fees as a counter to the high costs of Ethereum 2.0 staking. SharedStake continues to hit milestones and the SGT roadmap will always be a living document, owned and updated by SharedStake DAO members for their benefit.
+SharedStake is built for the transition to and past Ethereum 2.0. The protocol provides Staking-as-a-Service \(StaaS\), fully decentralized and with minimal fees as a counter to the high costs of Ethereum 2.0 staking. SharedStake will continue to be created by the members of the SharedStake DAO and the SGT roadmap will always be a living document, owned and updated by DAO members for their benefit.
 
-**We believe in what we code.**
+**We code for a decentralized future. And we believe in what we code.**
 
 ## **Highlights**
 
@@ -30,8 +30,14 @@ SharedStake is built for the transition to and past Ethereum 2.0. The protocol p
 {% page-ref page="fundamentals/roadmap.md" %}
 
 {% hint style="warning" %}
-_**You accept all risk of using the forum and content on the forum. As far as the law allows, the company and its suppliers provide the forum as is, without any warranty whatsoever.**_
+_**You accept all risk of using SharedStake and partners content. As far as the law allows, the company and its suppliers provide the forum as is, without any warranty whatsoever.**_
+{% endhint %}
 
-The forum may hyperlink to and integrate forums and services run by others. The protocol does not make any warranty about services run by others, or content they may provide. Use of services run by others may be governed by other terms between you and the one running service.
+{% hint style="warning" %}
+_The forum may hyperlink & integrate forums and services run by others. The SharedStake DAO and team members do not make any warranty about services run by others, or content they may provide. Use of services run by others may be governed by additional terms between you and separate parties._
+
+_Please note that this is a Beta version of the SharedStake protocol. The platform, its software, and all content found on it are provided on an “as is” and “as available” basis._
+
+Docs last updated 28 March, 2021.
 {% endhint %}
 
