@@ -4,29 +4,29 @@ description: SharedStake Governance Token
 
 # 💰 SGT
 
-Address:  [https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078](https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078)
+Dirección:  [https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078](https://etherscan.io/address/0x84810bcf08744d5862b8181f12d17bfd57d3b078)
 
-Max total supply: 10 million
+Cantidad máxima de tokens: 10 millones
 
-[See the tokenomics infographic here.](https://www.sharedstake.org/images/tokenomics.png)
+[Puedes ver el infográfico con más información sobre los tokens aquí](https://www.sharedstake.org/images/tokenomics.png)
 
-### SGT stands for SharedStake Governance Token. 
+### S**GT son las siglas en inglés del Token de Gobernanza de SharedStake.**
 
-SGT functions as the governance token of the protocol. 
+Funciona como el token de decisión del protocolo.
 
-The main function of SGT is distributing control of the protocol in a decentralized manner. DAO members can vote on SIPs with their SGT and decide which improvements should be implemented in the protocol. The SIPs govern priority, how to increase SGT profitability, how to maximize efficiency and effectively harness the power of the protocol. As the SharedStake protocol expands, the DAO will be the heart of the protocol, accepting **every** member’s contribution.
+La principal utilidad del token es distribuir el control del protocolo de una forma descentralizada. Los miembros de la DAO pueden votar en los SIPs con sus tokens de SGT y decidir qué mejoras serán implementadas en el protocolo. En los SIPs se decide con el token, se votan temáticas relacionadas con cómo incrementar la rentabilidad de SGT y cómo maximizar la eficiencia para aprovechar al máximo las posibilidades que ofrece el protocolo. A medida que el protocolo crezca y se expanda, la DAO será el corazón del protocolo, aceptando la contribución de cada uno de los miembros. 
 
-Additionally, the SharedStake Governance Token incentivizes migration of ether to Eth2.0 and creates an easier and more profitable staking process. After ether is staked, vEth2 is immediately available to realize SGT profits. 
+Además, el token incentiva la migración de Ethereum a Eth2.0 y crea un proceso de depósito más sencillo y más rentable. Una vez se stakea el Eth, inmediatamente se tiene acceso a vEth2 para empezar a obtener beneficios en forma de tokens de SGT. 
 
-[Read about the token distribution here](https://matthewhq.medium.com/staking-with-purpose-part-1-95f59d02e635)
+[Puedes leer sobre la distribución de los tokens aquí.](https://matthewhq.medium.com/staking-with-purpose-part-1-95f59d02e635)
 
-{% page-ref page="tokenomics.md" %}
+{% page-ref page="distribucion-de-tokens.md" %}
 
-{% page-ref page="distribution-and-emission.md" %}
+{% page-ref page="emision-y-distribucion.md" %}
 
-{% page-ref page="emission-schedule.md" %}
+{% page-ref page="emisiones-programadas.md" %}
 
-{% page-ref page="minting.md" %}
+{% page-ref page="acunacion.md" %}
 
 
 

@@ -1,56 +1,57 @@
 ---
-description: Frequently Asked Questions
+description: Preguntas más frecuentes
 ---
 
-# FAQ
+# ❔ FAQ
 
-## When was the launch of the protocol?
+## **¿Cuándo fue lanzado el protocolo?**
 
-Our first airdrop coincided with the launch of the protocol and occurred 02/02/2021.
+Nuestro primer airdrop coincidió con el lanzamiento del protocolo el 02/02/2021.
 
-Learn more about our launch: 
+Puedes ver más sobre nuestro lanzamiento aquí:
 
-{% page-ref page="defi-collaborations/a-storming-launch.md" %}
+{% page-ref page="colaboraciones-defi/un-lanzamiento-nevadito.md" %}
 
-## What is different from other protocols?
+## **¿Qué hace diferente a este protocolo del resto?**
 
-{% page-ref page="fundamentals/notable-features/" %}
+{% page-ref page="fundamentos/caracteristicas-destacadas/" %}
 
-## Can I withdraw my vEth2?
+## **¿Puedo recuperar mi vEth2?**
 
-Yes. This is one of the main advantages of the SharedStake protocol. We lock staked Ether periodically and this allows users to unstake their balance when it is convenient. The current minter contract allows users to withdraw as long as the contract is sufficiently liquid.
+Sí. Y esta es una de las ventajas principales del protocolo SharedStake. Bloqueamos el Eth stakeado periódicamente y esto permite a los usuarios recuperarlo cuando les convenga. El actual contrato de acuñamiento permite a los usuarios recuperarlo siempre y cuando haya liquidez suficiente en el contrato.
 
-This functionality allows users to exit from the protocol on their schedule, unlike other StaaS competitors. Although this may affect SGT's TVL, we believe in giving more value to our users. 
+Esta funcionalidad permite a los usuarios salir del protocolo cuando quieran, no como con otros competidores. A pesar de que esto puede afectar al valor total depositado \(TVL\), creemos que esto es lo mejor para los usuarios.
 
-If this functionality is determined by the community to require a change, a SIP may be voted on by DAO members to enable/disable features. This is unlikely to happen, but is another example of the utility gained by SGT holders.
+Si esta funcionalidad quisiera ser cambiada por la comunidad, los miembros de la DAO. podrían votar para aprobar el cambio mediante un SIP. Esto es poco probable que suceda, pero es otro ejemplo de la utilidad que tienen los holders de SGT.
 
-## How can I earn SGT? 
+## **¿Cómo puedo obtener SGT?**
 
-You can earn APY while you are waiting for ETH2 by:
+Puedes obtener APY mientras esperas a Eth2 de las siguientes formas:
 
-* Depositing the SharedStake Governance Token in the staking contract on the [Earn Page](https://www.sharedstake.org/earn)
-* Providing liquidity for the SharedStake token on Uniswap and staking the LP token in the staking contract on the [Earn Page](https://www.sharedstake.org/earn)
-* Depositing ether and staking your vEth2 in the staking contract on the [Earn Page](https://www.sharedstake.org/earn)
-* Staking Eth2SNOW in Buddy Elf's Pool in [Snowswap ](https://snowswap.org/stake)\(eligible for the second SGT airdrop\)
-* More to come!
+* Depositando SGT en el contrato de staking en la [página de Earn](https://www.sharedstake.org/earn).
+* Siendo proveedor de liquidez para el token de SGT en Uniswap y posteriormente depositando el token de proveedor de liquidez \(LP\) en el contrato de staking en la [página de Earn](https://www.sharedstake.org/earn).
+* Entrando y stakeando en el pool de vEth 2 de Sharedstake.
+* Aportando liquidez al pool de [Ruler Protocol](https://link.medium.com/RZA5gjmvYeb).
+* ¡Y muchas más formas que irán apareciendo!
 
-## Where can I buy SGT?
+## **¿Dónde puedo comprar SGT?**
 
-Currently, the ETH-SGT pair is available [only on Uniswap](https://info.uniswap.org/pair/0x3d07f6e1627da96b8836190de64c1aed70e3fc55)
+Actualmente en [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x84810bcf08744d5862b8181f12d17bfd57d3b078), cambiando Eth por SGT en el pool de ETH-SGT.
 
-## Where can I track SGT?
+## **¿Dónde puedo seguir el token de SGT?**
 
-You can use [CoinGecko](https://www.coingecko.com/en/coins/sharedstake-governance-token) or [CoinMarketCap](https://coinmarketcap.com/currencies/sharedstake/)
+* [Dune Analytics](https://duneanalytics.com/sushi2000/shared-stake-metrics)
+* [vfat.tools](https://vfat.tools/sgt/)
+* [Zapper.fi](https://zapper.fi/)
+* [DexTools](https://www.dextools.io/app/uniswap/pair-explorer/0x3d07f6e1627da96b8836190de64c1aed70e3fc55)
+* [CoinGecko](https://www.coingecko.com/en/coins/sharedstake-governance-token)
+* [CoinMarketCap](https://coinmarketcap.com/currencies/sharedstake/)
 
-## Are my staked tokens locked?
+## **¿Están mis tokens stakeados bloqueados?**
 
-No! You can unstake your staked tokens \(SGT, vEth2 and ETH-SGT LP tokens\) from the [Earn Page](https://www.sharedstake.org/earn) whenever you want
+No. ¡Puedes retirarlos en la página de Earn siempre que lo desees!
 
-## Where can I track my profit & balances?
-
-You can use [vfat](https://vfat.tools/sgt/) and [Zapper](https://zapper.fi/dashboard) support is on the way!
-
-## Where can I find more information on Ethereum 2?
+## **¿Dónde puedo encontrar más información sobre Ethereum 2?**
 
 {% embed url="https://ethereum.org/en/eth2/staking/" %}
 
