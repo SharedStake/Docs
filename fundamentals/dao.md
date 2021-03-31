@@ -20,3 +20,7 @@ Anyone can suggest a proposal by providing a SIP draft in an issue on Github or 
 
 [https://snapshot.page/\#/sharedstake.eth](https://snapshot.page/#/sharedstake.eth)
 
+![](../.gitbook/assets/dao.png)
+
+![](../.gitbook/assets/dao1.png)
+
