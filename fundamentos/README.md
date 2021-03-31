@@ -16,7 +16,7 @@ El **Token de Gobernanza de Sharedstake \(SharedStake Governance Token o SGT\)**
 
 **Uniswap** es el principal sitio de intercambio \(DEX\) en el cual puedes adquirir SGT u otros activos digitales a cambio de ETH. Además puedes proporcionar liquidez para recibir más retornos adicionales.
 
-_Los términos criptoeconómicos generales se pueden encontrar en nuestro Glosario al final de los documentos._
+_Los términos criptoeconómicos generales se pueden encontrar en nuestro_ [_Glosario_](https://docs.sharedstake.org/v/espanol/glosario) _al final de los documentos._
 
 {% page-ref page="caracteristicas-destacadas/" %}
 
