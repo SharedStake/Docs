@@ -8,7 +8,7 @@ You can test the staking functionality by switching to Goerli test network.
 
 ### Discord Faucet 🛁
 
-You can request from both in the \#request-goerli-eth channel on the [Prysm discord](https://2BVDxgYdiscord.com/invite/)  
+You can request from both in the \#request-goerli-eth channel on the [Prysm discord](https://discord.com/invite/prysmaticlabs)  
   
 **Minter:**[ **0xF7930fA4cddbf00Ea495f9A522010734580909f8**](https://goerli.etherscan.io/address/0xf7930fa4cddbf00ea495f9a522010734580909f8)\*\*\*\*
 
